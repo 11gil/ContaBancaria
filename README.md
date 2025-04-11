@@ -21,7 +21,7 @@ O objetivo é consolidar o uso de:
 
 ## 📸 Imagem do Projeto
 
-![Tela do projeto rodando no IntelliJ](img/captura-terminal.png)
+![Tela do projeto rodando no IntelliJ](/print-intellij.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
